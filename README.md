@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rudresh-Dhulapkar
-- 👀 I’m interested in C,java,html,php,python
-- 🌱 I’m currently learning Python and 3D designing.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C, C++, JAVA, HTML, PhP, Python, 3D Designing and developing Games and Apps.  
+- 🌱 I’m currently learning C++ and 3D designing.
 - 📫 How to reach me rdhulapker@gmail.com
 
 <!---
