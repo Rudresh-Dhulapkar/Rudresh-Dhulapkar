@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Rudresh Dhulapker" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" />
 </h1>
 
 ## Hey! 👋
