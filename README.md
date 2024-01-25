@@ -3,10 +3,10 @@
 </h1>
 
 ## Hey! 👋
-I'm Rudresh, a 19 years old Student.
+I'm Rudresh, a 21 years old Student.
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, JAVA, HTML, CSS, MySQL, SQL
+- 👨‍💻 HTML, CSS, PHP, Javascript, Java, C, C++, Python
 ## Contact
 - rdhulapker@gmail.com
 - [Rudresh#0996](./) on Discord
