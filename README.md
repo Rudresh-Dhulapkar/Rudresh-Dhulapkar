@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="height: 100px; width: 700pxs;" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" />
+  <img style="height: 500px; width: 700pxs;" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" />
 </h1>
 
 ## Hey! 👋
