@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Rudresh, a 21 years old Student.
+I'm Rudresh, a 21-year-old Student. Currently Studying at Goa College of Engineering in the field of Information Technology.
 
 ## Skills
 - Programming: Java, C/C++, Python
