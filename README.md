@@ -11,5 +11,5 @@ I'm Rudresh, a 21-year-old Student. Currently Studying at Goa College of Enginee
 - Back-End: PhP, MySQL
 - Mobile Application Development
 ## Contact
-- rdhulapker@gmail.com
+- rudreshdhulapkar@gmail.com
 - [Rudresh#0996](./) on Discord
